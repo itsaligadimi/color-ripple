@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ColorRipple</string>
+
+    <string-array name="lighter_colors">
+        <item>#f6e58d</item>
+        <item>#7ed6df</item>
+        <item>#ffbe76</item>
+        <item>#e056fd</item>
+        <item>#ff7979</item>
+        <item>#686de0</item>
+        <item>#badc58</item>
+        <item>#30336b</item>
+        <item>#dff9fb</item>
+        <item>#95afc0</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#f9ca24</item>
+        <item>#22a6b3</item>
+        <item>#f0932b</item>
+        <item>#be2edd</item>
+        <item>#eb4d4b</item>
+        <item>#4834d4</item>
+        <item>#6ab04c</item>
+        <item>#130f40</item>
+        <item>#c7ecee</item>
+        <item>#535c68</item>
+    </string-array>
+</resources>
