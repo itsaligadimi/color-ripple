@@ -1,11 +1,12 @@
 # Color ripple
-It ripples. =D
-It's a simple colored ripple animation. It was fun. :D
+It ripples. =D  
+It's a simple colored ripple animation. It was fun. :D  
+You can see the video [here](https://www.instagram.com/p/B0qsJZcgGLL/)
 
 
 # What's used
-SurefaceView
-Thread
+SurefaceView  
+Thread  
 and Canvas - of course -
 
 
